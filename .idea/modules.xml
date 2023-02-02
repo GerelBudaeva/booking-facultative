@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/react-facultativ.iml" filepath="$PROJECT_DIR$/.idea/react-facultativ.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/booking-facultative.iml" filepath="$PROJECT_DIR$/.idea/booking-facultative.iml" />
     </modules>
   </component>
 </project>
